@@ -22,10 +22,10 @@ repository               : "https://github.com/Victor-ChenXS?tab=repositories"
 author:
   # Biographic information
   avatar           : "Xiaoshuai.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Xiaoshuai Chen"
+  pronouns         : "He/His"  
   bio              : "Living your life as a submatingale"
-  location         : "Earth"
+  location         : "London, UK"
   employer         : "Imperial College London"
   uri              : # URL
   email            : "cx119@ic.ac.uk" 
