@@ -12,7 +12,7 @@ title                    : "Xiaoshuai Chen / Site Title"
 title_separator          : "-"
 name                     : &name "Xiaoshuai Chen"
 description              : &description "personal description"
-url                      : https://xiaoshuai.github.io
+url                      : https://xiaoshuai2.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/Victor-ChenXS?tab=repositories"
 
