@@ -12,7 +12,7 @@ title                    : "Xiaoshuai Chen / Site Title"
 title_separator          : "-"
 name                     : &name "Xiaoshuai Chen"
 description              : &description "A happy researcher"
-url                      : https://xiaoshuaiChen.github.io
+url                      : "https://xiaoshuaiChen.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/Victor-ChenXS?tab=repositories"
 
@@ -21,7 +21,7 @@ repository               : "https://github.com/Victor-ChenXS?tab=repositories"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Xiaoshuai.png"
+  avatar           : "images/Xiaoshuai.png"
   name             : "Xiaoshuai Chen"
   pronouns         : "He/His"  
   bio              : "Living your life as a submatingale"
@@ -280,7 +280,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: EU/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
