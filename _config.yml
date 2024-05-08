@@ -21,7 +21,7 @@ repository               : "https://github.com/Victor-ChenXS?tab=repositories"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Xiaoshuai.png"
+  avatar           : "/images/Xiaoshuai.png"
   name             : "Xiaoshuai Chen"
   pronouns         : "He/His"  
   bio              : "Living your life as a submatingale"
