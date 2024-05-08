@@ -1,8 +1,12 @@
 ---
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/9277874'
-title: "A Pervasive Respiratory Monitoring Sensor for COVID-19 Pandemic"
+title: "Paper Title Number 1"
 collection: publications
-citation: '**X. Chen**, S. Jiang, Z. Li and B. Lo, "A Pervasive Respiratory Monitoring Sensor for COVID-19 Pandemic," in IEEE Open Journal of Engineering in Medicine and Biology, vol. 2, pp. 11-16, 2021, doi: 10.1109/OJEMB.2020.3042051.'
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-In this paper, a robust activity (RA) and slow fall detection system is proposed. The system consists of a waist-worn wearable sensor embedded with an inertial measurement unit (IMU) and a barometer, and a reference ambient barometer. A deep neural network (DNN) is developed for fusing the sensor data and classifying fall events. The results have shown that the IMU-barometer design yield better detection of fall events and the DNN approach (90.33% accuracy) outperforms traditional machine learning algorithms.
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
